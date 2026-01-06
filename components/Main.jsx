@@ -34,7 +34,7 @@ function Main() {
           A Future Software Engineer
         </h2>
         <p className="py-2 text-gray-600 max-w-[70%] mx-auto">
-          Currently a <span className="text-[#C58940]">2nd-year</span> student
+          Currently a <span className="text-[#C58940]">3rd-year</span> student
           taking BS <span className="text-[#C58940]">Computer Science</span> at TIP QC.
         </p>
 
@@ -71,7 +71,7 @@ function Main() {
             <FaGithub className="text-xl" />
           </a>
         </div>
-        
+
       </div>
     </div>
   );
